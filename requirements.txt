@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+joblib
+
+# Optional: run an external Ollama service for Qwen2.5-32B reports.
+# The model is not downloaded or bundled by this repository.

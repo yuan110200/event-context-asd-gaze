@@ -1,0 +1,36 @@
+# Python and test caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Local environments and configuration
+.venv/
+venv/
+env/
+.env
+*.local
+
+# Research inputs and restricted artifacts
+data/
+raw_data/
+videos/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.joblib
+*.pkl
+*.pickle
+*.pth
+*.pt
+models/
+checkpoints/
+
+# Generated reports and experiment outputs
+outputs/
+reports/
+predictions/
+results/
+*.log
+*.tmp

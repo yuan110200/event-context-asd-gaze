@@ -1,0 +1,15 @@
+Event_ID,Start_Frame,End_Frame,Target_AOI,Process_AOIs
+E01,0,190,AOI_Teacher_Face,
+E02,191,300,"AOI_Teacher_Hands,AOI_Red_Block",
+E03,301,420,AOI_Teacher_Face,
+E04,421,490,AOI_Teacher_Face,
+E05,491,580,AOI_Blue_Block,"AOI_Teacher_Face,AOI_Teacher_Hands"
+E06,581,670,"AOI_Teacher_Hands,AOI_Blue_Block,AOI_Block_Tower",
+E07,671,800,AOI_Left_Area,"AOI_Teacher_Face,AOI_Teacher_Hands"
+E08,801,870,AOI_Teacher_Face,
+E09,871,940,AOI_Green_Block,"AOI_Teacher_Face,AOI_Teacher_Hands"
+E10,941,1060,"AOI_Teacher_Hands,AOI_Green_Block,AOI_Block_Tower",
+E11,1061,1169,AOI_Teacher_Face,AOI_Block_Tower
+E12,1170,1184,AOI_Center_Cross,
+E13,1185,1330,AOI_Sun,"AOI_Teacher_Face,AOI_Teacher_Hands"
+E14,1331,1530,AOI_Stars,"AOI_Teacher_Face,AOI_Teacher_Hands"

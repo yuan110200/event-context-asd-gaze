@@ -1,0 +1,41 @@
+raw_feature_key,display_name,event_id,cross_event,reporting_linkage
+Overall.Basic_Metrics.Dwell_On_Face_Ratio,Overall mean face dwell ratio,,true,F
+E07.Dwell_On_Face_Ratio,Face dwell ratio,E07,false,F
+E08.Dwell_On_Face_Ratio,Face dwell ratio,E08,false,F
+E03.Social_Preference_Bias,Social preference ratio,E03,false,F
+Overall.Clinical_Groups.Social_Referencing.success_rate,Social-referencing response rate,,true,C
+Overall.Functional_Analysis.Avg_Social_Integration_Rate,Mean face-object switch rate,,true,G
+E08.Social_Preference_Bias,Social preference ratio,E08,false,F
+E14.Dwell_On_Face_Ratio,Face dwell ratio,E14,false,F
+E11.Dwell_On_Face_Ratio,Face dwell ratio,E11,false,F
+E09.Social_Preference_Bias,Social preference ratio,E09,false,F
+E04.Dwell_On_Face_Ratio,Face dwell ratio,E04,false,F
+E09.Dimension_Indicators.Attention_Shifting.Perseverative_Gaze_Ratio,Perseverative gaze ratio,E09,false,G
+Overall.Functional_Analysis.Global_Perseveration_Rate,Mean perseverative gaze ratio,,true,G
+Overall.Basic_Metrics.Overall_Task_Success_Rate,Overall target-response rate,,true,C
+E14.Social_Switch_Rate,Face-object switch rate,E14,false,G
+Overall.Functional_Analysis.Avg_Gaze_Recurrence_RQA_RR,Spatial gaze recurrence rate,,true,M
+E11.Task_Success_Flag,Target-response indicator,E11,false,C
+E11.Social_Preference_Bias,Social preference ratio,E11,false,F
+E05.Dimension_Indicators.Attention_Shifting.Perseverative_Gaze_Ratio,Perseverative gaze ratio,E05,false,G
+E08.Task_Success_Flag,Target-response indicator,E08,false,C
+Overall.Basic_Metrics.Dwell_On_Other_Ratio,Off-AOI dwell ratio,,true,S
+Overall.Clinical_Groups.Joint_Attention.RJA_CheckbackLike_Rate,Joint-attention check-back rate,,true,S
+E08.Cue_to_Target_Latency_sec,Target-orienting latency,E08,false,C
+E01.Dwell_On_Face_Ratio,Face dwell ratio,E01,false,F
+E07.Dwell_On_Other_Ratio,Off-AOI dwell ratio,E07,false,S
+Overall.Clinical_Groups.Social_Referencing.social_checkback_rate,Social check-back rate,,true,S
+E11.Event_Specific.Social_Checkback_Occurred,Social check-back occurrence,E11,false,S
+Overall.Clinical_Groups.Social_Motivation.success_rate,Social-motivation response rate,,true,C
+E03.Dwell_On_Other_Ratio,Off-AOI dwell ratio,E03,false,S
+E05.Social_Preference_Bias,Social preference ratio,E05,false,F
+E08.Dwell_On_Other_Ratio,Off-AOI dwell ratio,E08,false,S
+E09.Dwell_On_Other_Ratio,Off-AOI dwell ratio,E09,false,S
+E13.Dwell_On_Face_Ratio,Face dwell ratio,E13,false,F
+E04.Cue_to_Target_Latency_sec,Target-orienting latency,E04,false,C
+E03.Task_Success_Flag,Target-response indicator,E03,false,C
+E04.Event_Specific.Exploration_Ratio,Exploratory gaze ratio,E04,false,G
+E14.Event_Specific.RJA_Analysis.RJA_Is_CheckbackLike,Joint-attention check-back,E14,false,S
+Overall.Functional_Analysis.Avg_Gaze_CORM_RQA_CORM,Center of recurrence mass (CORM),,true,M
+E11.Social_Switch_Rate,Face-object switch rate,E11,false,G
+E10.Dwell_On_Face_Ratio,Face dwell ratio,E10,false,F
